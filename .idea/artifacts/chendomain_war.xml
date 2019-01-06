@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chendomain:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="chen-sso.war">
+      <element id="artifact" artifact-name="chendomain:war exploded" />
+    </root>
+  </artifact>
+</component>
